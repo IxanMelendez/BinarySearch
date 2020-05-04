@@ -1,5 +1,5 @@
 # BinarySearch
-Binary Search program
+<p>Binary Search program
 Here is the Binary Search code for you to see
 
 #include <iostream>
@@ -138,4 +138,4 @@ int main() {
 
     return 0;
 }
-
+</p>
